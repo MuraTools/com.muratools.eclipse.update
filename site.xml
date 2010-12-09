@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Mura Tools" url="http://muratools.com/">
+      The Mura Tools suite.
+   </description>
+   <feature url="features/com.muratools.eclipse_1.0.0.201007041832.jar" id="com.muratools.eclipse" version="1.0.0.201007041832">
+      <category name="Mura Tools (Required)"/>
+   </feature>
+   <category-def name="Mura Tools (Required)" label="Mura Tools (Required)">
+      <description>
+         The Mura Tools suite provides helpers for rapidly developing for Mura CMS.
+      </description>
+   </category-def>
+</site>
