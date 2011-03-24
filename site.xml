@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Mura Tools" url="http://muratools.com/">
+   <description name="Mura Tools (Preview)" url="http://muratools.com/">
       The Mura Tools suite.
    </description>
-   <feature url="features/com.muratools.eclipse_1.0.0.201007041832.jar" id="com.muratools.eclipse" version="1.0.0.201007041832">
+   <feature url="features/com.muratools.eclipse.feature_1.2.0.201103241250.jar" id="com.muratools.eclipse.feature" version="1.2.0.201103241250">
       <category name="Mura Tools (Required)"/>
    </feature>
    <category-def name="Mura Tools (Required)" label="Mura Tools (Required)">
