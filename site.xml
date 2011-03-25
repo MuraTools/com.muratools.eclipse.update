@@ -3,7 +3,7 @@
    <description name="Mura Tools (Preview)" url="http://muratools.com/">
       The Mura Tools suite.
    </description>
-   <feature url="features/com.muratools.eclipse.feature_1.2.0.201103241448.jar" id="com.muratools.eclipse.feature" version="1.2.0.201103241448">
+   <feature url="features/com.muratools.eclipse.feature_1.2.0.201103250848.jar" id="com.muratools.eclipse.feature" version="1.2.0.201103250848">
       <category name="Mura Tools (Required)"/>
    </feature>
    <category-def name="Mura Tools (Required)" label="Mura Tools (Required)">
